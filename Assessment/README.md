@@ -1,6 +1,6 @@
 # 👋🏻🚦 Gesture-Controlled Traffic Baton
 
-Sheau-Jwu Esther Wu, ![Edge Impulse projects](https://studio.edgeimpulse.com/public/378369/live)
+Sheau-Jwu Esther Wu,  [Edge Impulse projects](https://studio.edgeimpulse.com/public/378369/live)
 
 ## Introduction
 - an overview of what the project does
