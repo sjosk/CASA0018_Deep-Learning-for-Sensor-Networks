@@ -1,23 +1,62 @@
-# DL4SN Assessment Submission Guidelines
+# 👋🏻🚦 Gesture-Controlled Traffic Baton
 
-This folder contains an outline of the content we want you to submit for your final assessment. It should have 2 main parts:
+Sheau-Jwu Esther Wu, Edge Impulse projects
 
-- a report folder containing a report in Markdown written using the template provided
-- a projects folder showing the various projects and experiments you have built during the module
+## Introduction
+- an overview of what the project does
+- your inspiration for making the project 
+- examples that it is based on. 
 
-The assessment on this module has 3 component parts: 
-1. the physical project build (what and how the device senses, choice of approach, quality of data) 
-2. the project presentation (narrative, critical analysis and synthesis of learning, clarity of presentation)
-3. the project documentation (context, results, reflection)
+*Tip: probably ~200 words and images are good!*
 
-This repository acts as the basis for documenting all three of those deliverables but mostly the third item in the list.
+## Research Question
+What is the problem you are trying to solve
 
-## Report Folder
-The template provides the structure of the information we want you to capture to describe your project. We want you to complete this report in Markdown to get into the habit of documenting your work on GitHub. 
+*Tip: probably 1 or 2 sentences*
 
-When the report is finished you should export to PDF using an extension of your choice - for example in VSCode we use the handy MarkdownPDF extension. When the PDF has been created, upload that to Moodle for assessment.
+## Application Overview
+Thinking back to the various application diagrams you have seen through the module - how would you describe an overview of the building blocks of your project - how do they connect, what do the component parts include.
 
-## Projects Folder
-Your 'Final Project' is the one that you will present at the end of the module and your repository for the project should contain all code and assets used. It is important to document these resources so that other people can understand what is in your repository and replicate your project. 
+*Tip: probably ~200 words and a diagram is usually good to convey your design!*
 
-Whilst the main folder in Projects will be 'Final Project' we encourage you to add in other folders in the space to store any other experimentation you have done during the module - for example, projects from the tutorials. 
+## Data
+Describe what data sources you have used and any cleaning, wrangling or organising you have done. Including some examples of the data helps others understand what you have been working with.
+
+*Tip: probably ~200 words and images of what the data 'looks like' are good!*
+
+## Model
+This is a Deep Learning project! What model architecture did you use? Did you try different ones? Why did you choose the ones you did?
+
+*Tip: probably ~200 words and a diagram is usually good to describe your model!*
+
+## Experiments
+What experiments did you run to test your project? What parameters did you change? How did you measure performance? Did you write any scripts to evaluate performance? Did you use any tools to evaluate performance? Do you have graphs of results? 
+
+*Tip: probably ~300 words and graphs and tables are usually good to convey your results!*
+
+## Results and Observations
+Synthesis the main results and observations you made from building the project. Did it work perfectly? Why not? What worked and what didn't? Why? What would you do next if you had more time?  
+
+*Tip: probably ~300 words and remember images and diagrams bring results to life!*
+
+## Bibliography
+*If you added any references then add them in here using this format:*
+
+1. Last name, First initial. (Year published). Title. Edition. (Only include the edition if it is not the first edition) City published: Publisher, Page(s). http://google.com
+
+2. Last name, First initial. (Year published). Title. Edition. (Only include the edition if it is not the first edition) City published: Publisher, Page(s). http://google.com
+
+*Tip: we use [https://www.citethisforme.com](https://www.citethisforme.com) to make this task even easier.* 
+
+----
+
+## Declaration of Authorship
+
+I, AUTHORS NAME HERE, confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
+
+
+*Digitally Sign by typing your name here*
+
+ASSESSMENT DATE
+
+Word count: 
